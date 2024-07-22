@@ -18,8 +18,8 @@ This repository contains a Flask application that demonstrates how to handle lon
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/flask-async-task-example.git
-    cd flask-async-task-example
+    git clone https://github.com/SwastikShukla21/Flask-Executor.git
+    cd Flask-Executor
     ```
 
 2. Create and activate a virtual environment:
